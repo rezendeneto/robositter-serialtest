@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1339361763 source:/home/rezendeneto/robositter-serialtest/main.cpp
+	<iostream>
+	<fstream>
+	<fcntl.h>
+
